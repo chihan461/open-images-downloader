@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1fa44e6f2cb4b2a0.jpg</filename>
+	<path>/home/ch2/Downloads/open-images-downloader-master/data/image/test/1fa44e6f2cb4b2a0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>108</ymin>
+			<xmax>1024</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>97c5baf58da390c9.jpg</filename>
+	<path>/home/ch2/Downloads/open-images-downloader-master/data/image/train/97c5baf58da390c9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>683</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>44</ymin>
+			<xmax>597</xmax>
+			<ymax>924</ymax>
+		</bndbox>
+	</object>
+</annotation>
